@@ -1,0 +1,41 @@
+.inline-block {
+    display:inline-block;
+    background-color:#FFFFFF;
+    padding:15px;
+    width:150px;
+    text-align:center;
+
+}
+
+.header{
+background-color:bisque;
+padding:5px;
+}
+
+.left {
+   float:left; /*this is to make sure it stays to the left*/
+    background-color:blanchedalmond;
+    padding:20px;
+    width:29%; /* width is based on percentage*/
+    height:500px;
+}
+
+.containertop{
+    background-color:#f9f9f9;
+text-align:center;    
+padding:15px;
+}
+.containerbottom{
+    background-color:grey;
+    text-align: left;
+    padding:15px;
+}
+
+.right {
+    width:70%;
+    height:500px;
+    float:left;
+    background-color:#d9d9d9;
+
+}
+
